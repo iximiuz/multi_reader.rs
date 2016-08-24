@@ -1,5 +1,7 @@
 # MultiReader - a composite reader implementation.
 
+[![Build Status](https://travis-ci.org/Ostrovski/multi_reader.rs.svg?branch=master)](https://travis-ci.org/Ostrovski/multi_reader.rs)
+
 Like `std::io::Chain` but allows to chain more than two readers together.
 
 # Usage
