@@ -1,0 +1,9 @@
+[package]
+name = "multi_reader"
+version = "0.1.0"
+authors = ["Ivan Velichko <iximiuz@gmail.com>"]
+description = "MultiReader - a composite reader implementation."
+readme = "README.md"
+keywords = ["io", "chain", "chained", "multireader", "chainedreader"]
+license-file = "LICENSE"
+repository = "https://github.com/Ostrovski/multi_reader.rs"
